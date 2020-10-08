@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/shty32/shty32.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+* I got my B.S. and M.S. degree from BUAA in 2016 and 2019. My research interests focus on computer vision applications in remote sensing, artistic creation and video games. ([[Google Scholar Profile](https://scholar.google.com/citations?user=oPej400AAAAJ&hl=en)], Work Email: shitianyang@corp.netease.com, Personal Email: shitianyang94@gmail.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* I'm currently an AI researcher at NetEase Fuxi AI LAB, and now I'm working on the problem of game character auto-creation, where we aim to generate game characters based on user-uploaded facial photos. I'm the first one to solve this problem and launch this technology on the game ["Justice Online"](https://n.163.com).
 
-### Markdown
+NEW (09/2020): Our neural rendering paper was accepted by TPAMI. This is the first work on the topic of game character auto-creation. Excellent cooperation with [Dr. Zhengxia Zou](http://www-personal.umich.edu/~zzhengxi/#Honors).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+NEW (07/2020): Two papers accepted to ACM MM 2020.
 
-```markdown
-Syntax highlighted code block
+NEW (03/2020): I was invited to give a talk on GDC 2020 for game character auto-creation. Great pleasure!
 
-# Header 1
-## Header 2
-### Header 3
+NEW (02/2020): One paper accepted to CVPR 2020.
 
-- Bulleted
-- List
+NEW (11/2019): One paper accepted to AAAI 2020.
 
-1. Numbered
-2. List
+NEW (09/2019): Two papers accepted to ICCV 2019.
 
-**Bold** and _Italic_ and `Code` text
+## Publications
 
-[Link](url) and ![Image](src)
-```
+Tianyang Shi\*, Zhengxia Zou\* (\*equal contribution), Zhenwei Shi, and Yi Yuan. Neural Rendering for Game Character Auto-creation. Transactions on Pattern Analysis and Machine Intelligence, 2020, in press. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197693)]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Yinglin Duan\*, Tianyang Shi\* (\*equal contribution), Zhengxia Zou, Jia Qin, et al. Semi-Supervised Learning for In-Game Expert-Level Music-to-Dance Translation. CoRR, abs/2009.12763, 2020. [[PDF](https://arxiv.org/pdf/2009.12763.pdf)]
 
-### Jekyll Themes
+Zhengxia Zou, Sen Lei, Tianyang Shi, Zhenwei Shi, and Jieping Ye. Deep Adversarial Decomposition: A Unified Framework for Separating Superimposed Images. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020. [[PDF](http://www-personal.umich.edu/~zzhengxi/zzx_PDF/CVPR2020.pdf)] [[1min-DemoVideo](http://www-personal.umich.edu/~zzhengxi/zzx_gallery/5946-1min.mp4)] [[Github](https://github.com/jiupinjia/Deep-adversarial-decomposition)]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shty32/shty32.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Tianyang Shi, Zhengxia Zou, Xinhui Song, Zheng Song, Changjian Gu, Yi Yuan, and Changjie Fan. Neutral Face Game Character Auto-Creation via PokerFace-GAN. ACM International Conference on Multimedia (ACM MM) 2020. [[PDF](https://arxiv.org/pdf/2008.07154.pdf)]
 
-### Support or Contact
+Zhengxia Zou\*, Tianyang Shi\* (\*equal contribution), Wenyuan Li, Zhou Zhang, and Zhenwei Shi. Do Game Data Generalize Well for Remote Sensing Image Segmentation? Remote Sensing, in press, 2020. [[PDF](https://www.mdpi.com/2072-4292/12/2/275)]
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Tianyang Shi, Zhengxia Zou, Yi Yuan, and Changjie Fan. Fast and Robust Face-to-Parameter Translation for Game Character Auto-creation. AAAI Conference on Artificial Intelligence (AAAI) 2020. [[PDF](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ShiT.147.pdf)]
+
+Zhengxia Zou, Wenyuan Li, Tianyang Shi, Zhenwei Shi, and Jieping Ye. Generative Adversarial Training for Weakly Supervised Cloud Matting. IEEE International Conference on Computer Vision (ICCV) 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Zou_Generative_Adversarial_Training_for_Weakly_Supervised_Cloud_Matting_ICCV_2019_paper.html) [Github](https://github.com/jiupinjia/CloudMattingGAN)]
+
+Tianyang Shi, Yi Yuan, Changjie Fan, Zhengxia Zou, Zhenwei Shi, and Yong Liu. Face-to-Parameter Translation for Game Character Auto-Creation. IEEE International Conference on Computer Vision (ICCV) 2019. [[PDF](https://arxiv.org/abs/1909.01064)]
+
+## TODO
+
+TODO
