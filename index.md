@@ -2,7 +2,7 @@
 
 <div style="float: left; clear: both;" align="left">
 <img src="logo.png" width="100" alt="logo" align=left margin-left="10px" margin-right="10px"/>
-I got my B.S. and M.S. degree from BUAA in 2016 and 2019. My research interests focus on computer vision applications in remote sensing, artistic creation and video games. (<a href="https://scholar.google.com/citations?user=oPej400AAAAJ&hl=en">Google Scholar Profile</a>)
+<p>I got my B.S. and M.S. degree from BUAA in 2016 and 2019. My research interests focus on computer vision applications in remote sensing, artistic creation and video games. (<a href="https://scholar.google.com/citations?user=oPej400AAAAJ&hl=en">Google Scholar Profile</a>)</p>
 <p>Working Email: shitianyang@corp.netease.com</p>
 <p>Personal Email: shitianyang94@gmail.com</p>
 </div>
