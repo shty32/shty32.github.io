@@ -27,7 +27,9 @@
 
 + NEW (09/2019): Two papers accepted to ICCV 2019.
 
-## Publications
+## Academic
+
+**Publications**
 
 + **\[TPAMI\]** Tianyang Shi\*, Zhengxia Zou\* (\*equal contribution), Zhenwei Shi, and Yi Yuan. Neural Rendering for Game Character Auto-creation. Transactions on Pattern Analysis and Machine Intelligence, 2020, in press. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197693)]
 
@@ -52,6 +54,10 @@
 + **\[TGRS\]** Zhenwei Shi, Tianyang Shi, Min Zhou, and Xia Xu. Collaborative sparse hyperspectral unmixing using l0 norm. IEEE Transactions on Geoscience and Remote Sensing 56, no. 9 (2018): 5495-5508. [[PDF](https://ieeexplore.ieee.org/abstract/document/8340224)]
 
 [\>\>\> Visit my google scholar for full publication list \<\<\<](https://scholar.google.com/citations?user=oPej400AAAAJ&hl=en)
+
+**Peer-Review Services**
+
++ AAAI 2021 PC Member; CVPR 2020, 2021 PC Member; WACV 2021 PC Member.
 
 ## TODO
 
