@@ -7,8 +7,13 @@
 </div>
 <br clear="left" />
 
+### Contect Me
+
 + Working Email: shitianyang@corp.netease.com
+
 + Personal Email: shitianyang94@gmail.com
+
+### My News
 
 NEW (09/2020): Our neural rendering paper was accepted by TPAMI. This is the first work on the topic of game character auto-creation. Excellent cooperation with [Dr. Zhengxia Zou](http://www-personal.umich.edu/~zzhengxi/#Honors).
 
