@@ -1,11 +1,10 @@
 ## About Me
 
 <div style="float: left; clear: both;" align="left">
-<img src="logo.png" width="100" alt="logo" align=left hspace="0" vspace="0"/>
-  
-I got my B.S. and M.S. degree from BUAA in 2016 and 2019. My research interests focus on computer vision applications in remote sensing, artistic creation and video games. ([[Google Scholar Profile](https://scholar.google.com/citations?user=oPej400AAAAJ&hl=en)], Work Email: shitianyang@corp.netease.com, Personal Email: shitianyang94@gmail.com)
+<img src="logo.png" width="100" alt="logo" align=left hspace="5" vspace="5"/>
+I got my B.S. and M.S. degree from BUAA in 2016 and 2019. My research interests focus on computer vision applications in remote sensing, artistic creation and video games. (<a href="https://scholar.google.com/citations?user=oPej400AAAAJ&hl=en">Google Scholar Profile</a>, Work Email: shitianyang@corp.netease.com, Personal Email: shitianyang94@gmail.com)
 
-I'm currently an AI researcher at NetEase Fuxi AI LAB, and now I'm working on the problem of game character auto-creation, where we aim to generate game characters based on user-uploaded facial photos. I'm the first one to solve this problem and launch this technology on the game ["Justice Online"](https://n.163.com).
+I'm currently an AI researcher at NetEase Fuxi AI LAB, and now I'm working on the problem of game character auto-creation, where we aim to generate game characters based on user-uploaded facial photos. I'm the first one to solve this problem and launch this technology on the game <a href="https://n.163.com">"Justice Online"</a>.
 </div>
 <br clear="left" />
 
