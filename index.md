@@ -7,7 +7,7 @@
 </div>
 <br clear="left" />
 
-### Contect Me
+### Contact Me
 
 + Working Email: shitianyang@corp.netease.com
 
