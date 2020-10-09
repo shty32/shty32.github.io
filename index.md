@@ -7,13 +7,13 @@
 </div>
 <br clear="left" />
 
-### Contact Me
+**Contact Me:**
 
 + Working Email: shitianyang@corp.netease.com
 
 + Personal Email: shitianyang94@gmail.com
 
-### My News
+**My News:**
 
 NEW (09/2020): Our neural rendering paper was accepted by TPAMI. This is the first work on the topic of game character auto-creation. Excellent cooperation with [Dr. Zhengxia Zou](http://www-personal.umich.edu/~zzhengxi/#Honors).
 
@@ -51,7 +51,7 @@ NEW (09/2019): Two papers accepted to ICCV 2019.
 
 + **\[TGRS\]** Zhenwei Shi, Tianyang Shi, Min Zhou, and Xia Xu. Collaborative sparse hyperspectral unmixing using l0 norm. IEEE Transactions on Geoscience and Remote Sensing 56, no. 9 (2018): 5495-5508. [[PDF](https://ieeexplore.ieee.org/abstract/document/8340224)]
 
-[>>> Visit my google scholar for full publication list <<<](https://scholar.google.com/citations?user=oPej400AAAAJ&hl=en)
+[\>\>\> Visit my google scholar for full publication list \<\<\<](https://scholar.google.com/citations?user=oPej400AAAAJ&hl=en)
 
 ## TODO
 
