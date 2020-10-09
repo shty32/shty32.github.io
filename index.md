@@ -2,7 +2,7 @@
 
 <div style="float: left; clear: both;" align="left">
 <img src="logo.png" width="100" alt="logo" align=left style="margin:0 10px 0 10px"/>
-<p>Hi, I'm Tianyang Shi (石天阳). I got my B.S. and M.S. degree from <a href="www.buaa.edu.cn">BUAA</a> in 2016 and 2019. My research interests focus on computer vision applications in remote sensing, artistic creation and video games. (<a href="https://scholar.google.com/citations?user=oPej400AAAAJ&hl=en">Google Scholar Profile</a>)</p>
+<p>Hi, I'm Tianyang Shi (石天阳). I got my B.S. and M.S. degree from <a href="https://www.buaa.edu.cn">BUAA</a> in 2016 and 2019. My research interests focus on computer vision applications in remote sensing, artistic creation and video games. (<a href="https://scholar.google.com/citations?user=oPej400AAAAJ&hl=en">Google Scholar Profile</a>)</p>
 <p>I'm currently an AI researcher at NetEase Fuxi AI LAB, and now I'm working on the problem of game character auto-creation, where we aim to generate game characters based on user-uploaded facial photos. I'm the first one to solve this problem and launch this technology on the game <a href="https://n.163.com">"Justice Online"</a>.</p>
 </div>
 <br clear="left" />
