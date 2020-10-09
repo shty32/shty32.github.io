@@ -15,17 +15,17 @@
 
 **My News:**
 
-NEW (09/2020): Our neural rendering paper was accepted by TPAMI. This is the first work on the topic of game character auto-creation. Excellent cooperation with [Dr. Zhengxia Zou](http://www-personal.umich.edu/~zzhengxi/#Honors).
++ NEW (09/2020): Our neural rendering paper was accepted by TPAMI. This is the first work on the topic of game character auto-creation. Excellent cooperation with [Dr. Zhengxia Zou](http://www-personal.umich.edu/~zzhengxi/#Honors).
 
-NEW (07/2020): Two papers accepted to ACM MM 2020.
++ NEW (07/2020): Two papers accepted to ACM MM 2020.
 
-NEW (03/2020): I was invited to give a talk on GDC 2020 for game character auto-creation. Great pleasure!
++ NEW (03/2020): I was invited to give a talk on GDC 2020 for game character auto-creation. Great pleasure!
 
-NEW (02/2020): One paper accepted to CVPR 2020.
++ NEW (02/2020): One paper accepted to CVPR 2020.
 
-NEW (11/2019): One paper accepted to AAAI 2020.
++ NEW (11/2019): One paper accepted to AAAI 2020.
 
-NEW (09/2019): Two papers accepted to ICCV 2019.
++ NEW (09/2019): Two papers accepted to ICCV 2019.
 
 ## Publications
 
