@@ -15,6 +15,8 @@
 
 **My News:**
 
++ NEW (10/2020): Our team won the "Best Technology Innovation Award" for "Game Character Auto-Creation" in the 2020 NetEase Technology Awards Ceremony. I'm glad to be the core member of this project and thanks a lot for the team's support!
+
 + NEW (09/2020): Our neural rendering paper was accepted by TPAMI. This is the first work on the topic of game character auto-creation. Excellent cooperation with [Dr. Zhengxia Zou](http://www-personal.umich.edu/~zzhengxi/#Honors).
 
 + NEW (07/2020): Two papers accepted to ACM MM 2020.
