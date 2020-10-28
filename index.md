@@ -15,7 +15,9 @@
 
 **My News:**
 
-+ NEW (10/2020): Our team won the "Best Technology Innovation Award" for "Game Character Auto-Creation" in the 2020 NetEase Technology Awards Ceremony. I'm glad to be the core member of this project and thanks a lot for the team's support!
++ NEW (10/2020): My team won the championship in the First Netease Technical Marathon (20,000 CNY). Cheers!
+
++ NEW (10/2020): My team won the "Best Technology Innovation Award" for "Game Character Auto-Creation" in the 2020 NetEase Technology Awards Ceremony (50,000 CNY). I'm glad to be the core member of this project and thanks a lot for the team's support!
 
 + NEW (09/2020): Our neural rendering paper was accepted by TPAMI. This is the first work on the topic of game character auto-creation. Excellent cooperation with [Dr. Zhengxia Zou](http://www-personal.umich.edu/~zzhengxi/#Honors).
 
@@ -39,17 +41,17 @@
 
 + **\[CVPR2020\]** Zhengxia Zou, Sen Lei, Tianyang Shi, Zhenwei Shi, and Jieping Ye. Deep Adversarial Decomposition: A Unified Framework for Separating Superimposed Images. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020. [[PDF](http://www-personal.umich.edu/~zzhengxi/zzx_PDF/CVPR2020.pdf)] [[1min-DemoVideo](http://www-personal.umich.edu/~zzhengxi/zzx_gallery/5946-1min.mp4)] [[Github](https://github.com/jiupinjia/Deep-adversarial-decomposition)]
 
-+ **\[ACMMM2020\]** Tianyang Shi, Zhengxia Zou, Xinhui Song, Zheng Song, Changjian Gu, Changjie Fan, and Yi Yuan. Neutral Face Game Character Auto-Creation via PokerFace-GAN. ACM International Conference on Multimedia (ACM MM) 2020. [[PDF](https://arxiv.org/pdf/2008.07154.pdf)]
++ **\[ACMMM2020\]** Tianyang Shi, Zhengxia Zou, Xinhui Song, Zheng Song, Changjian Gu, Changjie Fan, and Yi Yuan. Neutral Face Game Character Auto-Creation via PokerFace-GAN. ACM International Conference on Multimedia (ACM MM) 2020. [[PDF](https://arxiv.org/pdf/2008.07154.pdf)] [[Poster](pokerfacegan-ACMMM2020.png)]
 
 + **\[ACMMM2020\]** Xinhui Song, Tianyang Shi, Zunlei Feng, Mingli Song, Jackie Lin, Chuanjie Lin, Changjie Fan, and Yi Yuan. Unsupervised Learning Facial Parameter Regressor for Action Unit Intensity Estimation via Differentiable Renderer. ACM International Conference on Multimedia (ACM MM) 2020. [[PDF](https://arxiv.org/pdf/2008.08862.pdf)]
 
 + **\[RS\]** Zhengxia Zou\*, Tianyang Shi\* (\*equal contribution), Wenyuan Li, Zhou Zhang, and Zhenwei Shi. Do Game Data Generalize Well for Remote Sensing Image Segmentation? Remote Sensing, in press, 2020. [[PDF](https://www.mdpi.com/2072-4292/12/2/275)]
 
-+ **\[AAAI2020\]** Tianyang Shi, Zhengxia Zou, Yi Yuan, and Changjie Fan. Fast and Robust Face-to-Parameter Translation for Game Character Auto-creation. AAAI Conference on Artificial Intelligence (AAAI) 2020. [[PDF](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ShiT.147.pdf)]
++ **\[AAAI2020\]** Tianyang Shi, Zhengxia Zou, Yi Yuan, and Changjie Fan. Fast and Robust Face-to-Parameter Translation for Game Character Auto-creation. AAAI Conference on Artificial Intelligence (AAAI) 2020. [[PDF](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ShiT.147.pdf)] [[Poster](frf2p-AAAI2020.png)]
 
 + **\[ICCV2019\]** Zhengxia Zou, Wenyuan Li, Tianyang Shi, Zhenwei Shi, and Jieping Ye. Generative Adversarial Training for Weakly Supervised Cloud Matting. IEEE International Conference on Computer Vision (ICCV) 2019. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Zou_Generative_Adversarial_Training_for_Weakly_Supervised_Cloud_Matting_ICCV_2019_paper.html)] [[Github](https://github.com/jiupinjia/CloudMattingGAN)]
 
-+ **\[ICCV2019\]** Tianyang Shi, Yi Yuan, Changjie Fan, Zhengxia Zou, Zhenwei Shi, and Yong Liu. Face-to-Parameter Translation for Game Character Auto-Creation. IEEE International Conference on Computer Vision (ICCV) 2019. [[PDF](https://arxiv.org/abs/1909.01064)]
++ **\[ICCV2019\]** Tianyang Shi, Yi Yuan, Changjie Fan, Zhengxia Zou, Zhenwei Shi, and Yong Liu. Face-to-Parameter Translation for Game Character Auto-Creation. IEEE International Conference on Computer Vision (ICCV) 2019. [[PDF](https://arxiv.org/abs/1909.01064)] [[Poster](f2p-ICCV2019.png)]
 
 + **\[RS\]** Tianyang Shi, Qizhi Xu, Zhengxia Zou, and Zhenwei Shi. Automatic raft labeling for remote sensing images via dual-scale homogeneous convolutional neural network. Remote Sensing 10, no. 7 (2018): 1130. [[PDF](https://www.mdpi.com/2072-4292/10/7/1130)]
 
