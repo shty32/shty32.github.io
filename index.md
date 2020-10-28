@@ -61,6 +61,3 @@
 
 + AAAI 2021 PC Member; CVPR 2020, 2021 PC Member; WACV 2021 PC Member.
 
-## TODO
-
-TODO
