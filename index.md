@@ -37,9 +37,11 @@
 
 **Publications**
 
++ Zhengxia Zou, Tianyang Shi, Shuang Qiu, Yi Yuan, and Zhenwei Shi. Stylized Neural Painting. CoRR, abs/2011.08114, 2020. [[PDF](https://arxiv.org/pdf/2011.08114.pdf)]
+
 + **\[TPAMI\]** Tianyang Shi\*, Zhengxia Zou\* (\*equal contribution), Zhenwei Shi, and Yi Yuan. Neural Rendering for Game Character Auto-creation. Transactions on Pattern Analysis and Machine Intelligence, 2020, in press. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197693)]
 
-+ Yinglin Duan\*, Tianyang Shi\* (\*equal contribution), Zhengxia Zou, Jia Qin, et al. Semi-Supervised Learning for In-Game Expert-Level Music-to-Dance Translation. CoRR, abs/2009.12763, 2020. [[PDF](https://arxiv.org/pdf/2009.12763.pdf)]
++ Yinglin Duan\*, Tianyang Shi\* (\*equal contribution), Zhengxia Zou, et al. Semi-Supervised Learning for In-Game Expert-Level Music-to-Dance Translation. CoRR, abs/2009.12763, 2020. [[PDF](https://arxiv.org/pdf/2009.12763.pdf)]
 
 + **\[CVPR2020\]** Zhengxia Zou, Sen Lei, Tianyang Shi, Zhenwei Shi, and Jieping Ye. Deep Adversarial Decomposition: A Unified Framework for Separating Superimposed Images. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020. [[PDF](http://www-personal.umich.edu/~zzhengxi/zzx_PDF/CVPR2020.pdf)] [[1min-DemoVideo](http://www-personal.umich.edu/~zzhengxi/zzx_gallery/5946-1min.mp4)] [[Github](https://github.com/jiupinjia/Deep-adversarial-decomposition)]
 
