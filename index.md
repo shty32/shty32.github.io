@@ -15,6 +15,8 @@
 
 **My News:**
 
++ NEW (11/2020): My co-authored work ["Stylized Neural Painting"](https://jiupinjia.github.io/neuralpainter/) with Dr. Zou has been released. Also welcome to his another excellent work ["SkyAR"](https://jiupinjia.github.io/skyar/). Nice cooperations!
+
 + NEW (10/2020): My team won the championship in the First Netease Technical Marathon (20,000 CNY). Cheers!
 
 + NEW (10/2020): My team won the "Best Technology Innovation Award" for "Game Character Auto-Creation" in the 2020 NetEase Technology Awards Ceremony (50,000 CNY). I'm glad to be the core member of this project and thanks a lot for the team's support!
