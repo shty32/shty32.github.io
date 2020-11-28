@@ -15,7 +15,7 @@
 
 **My News:**
 
-+ NEW (11/2020): My co-authored work ["Stylized Neural Painting"](https://jiupinjia.github.io/neuralpainter/) with Dr. Zou has been released. Also welcome to his another excellent work ["SkyAR"](https://jiupinjia.github.io/skyar/). Nice cooperations!
++ NEW (11/2020): My co-authored work ["Stylized Neural Painting"](https://jiupinjia.github.io/neuralpainter/) with Dr. Zou has been released. Also congratulations to his another excellent work ["SkyAR"](https://jiupinjia.github.io/skyar/). Nice cooperations!
 
 + NEW (10/2020): My team won the championship in the First Netease Technical Marathon (20,000 CNY). Cheers!
 
