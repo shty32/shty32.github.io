@@ -15,6 +15,8 @@
 
 **My News:**
 
++ NEW (03/2021): One paper ("Stylized Neural Painting") accepted to CVPR 2021. Cheers!
+
 + NEW (11/2020): My co-authored work ["Stylized Neural Painting"](https://jiupinjia.github.io/neuralpainter/) with Dr. Zou has been released. Also congratulations to his another excellent work ["SkyAR"](https://jiupinjia.github.io/skyar/). Nice cooperations!
 
 + NEW (10/2020): My team won the championship in the First Netease Technical Marathon (20,000 CNY). Cheers!
