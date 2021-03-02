@@ -15,7 +15,13 @@
 
 **My News:**
 
++ NEW (03/2021): Our new project ["Motion Completion Transformer"](https://arxiv.org/abs/2103.00776) is presented!
+
 + NEW (03/2021): One paper ("Stylized Neural Painting") accepted to CVPR 2021. Cheers!
+
++ NEW (02/2021): I will be serving as a Program Committee (PC) member in ICCV 2021.
+
++ NEW (01/2021): One paper accepted to IEEE Transactions on Image Processing.
 
 + NEW (11/2020): My co-authored work ["Stylized Neural Painting"](https://jiupinjia.github.io/neuralpainter/) with Dr. Zou has been released. Also congratulations to his another excellent work ["SkyAR"](https://jiupinjia.github.io/skyar/). Nice cooperations!
 
@@ -31,15 +37,17 @@
 
 + NEW (02/2020): One paper accepted to CVPR 2020.
 
-+ NEW (11/2019): One paper accepted to AAAI 2020.
-
-+ NEW (09/2019): Two papers accepted to ICCV 2019.
-
 ## Academic
 
 **Publications**
 
-+ Zhengxia Zou, Tianyang Shi, Shuang Qiu, Yi Yuan, and Zhenwei Shi. Stylized Neural Painting. CoRR, abs/2011.08114, 2020. [[PDF](https://arxiv.org/pdf/2011.08114.pdf)]
++ Yinglin Duan\*, Tianyang Shi\*, Zhengxia Zou\* (\*equal contribution), Yenan Lin, Zhehui Qian, Bohan Zhang, and Yi Yuan. Single-Shot Motion Completion with Transformer. CoRR, abs/2103.00776, 2021. [[PDF](https://arxiv.org/abs/2103.00776)][[Project](https://github.com/FuxiCV/SSMCT)]
+
++ **\[CVPR2021\]** Zhengxia Zou, Tianyang Shi, Shuang Qiu, Yi Yuan, and Zhenwei Shi. Stylized Neural Painting. CoRR, abs/2011.08114, 2020. [[PDF](https://arxiv.org/pdf/2011.08114.pdf)]
+
++ **\[TIP\]** Zhengxia Zou, Tianyang Shi, Zhenwei Shi, and Jieping Ye. Adversarial Training for Solving Inverse Problems in Image Processing. IEEE Transactions on Image Processing, 2021, in press. [[PDF](http://www-personal.umich.edu/~zzhengxi/zzx_PDF/inverseGANs.pdf)]
+
++ Zhengxia Zou, Tianyang Shi, Yi Yuan, and Zhenwei Shi. NeuralMagicEye: Learning to See and Understand the Scene Behind an Autostereogram. CoRR, abs/2012.15692, 2020. [[PDF](https://arxiv.org/abs/2012.15692)]
 
 + **\[TPAMI\]** Tianyang Shi\*, Zhengxia Zou\* (\*equal contribution), Zhenwei Shi, and Yi Yuan. Neural Rendering for Game Character Auto-creation. Transactions on Pattern Analysis and Machine Intelligence, 2020, in press. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197693)]
 
@@ -67,5 +75,5 @@
 
 **Peer-Review Services**
 
-+ AAAI 2021 PC Member; CVPR 2020, 2021 PC Member; WACV 2021 PC Member.
++ AAAI 2021 PC Member; CVPR 2020, 2021 PC Member; ICCV 2021 PC Member; WACV 2021 PC Member.
 
