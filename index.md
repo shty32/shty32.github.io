@@ -3,7 +3,7 @@
 <div style="float: left; clear: both;" align="left">
 <img src="logo.png" width="100" alt="logo" align=left style="margin:0 10px 0 10px"/>
 <p>Hi, I'm Tianyang Shi (石天阳). I got my B.S. and M.S. degree from <a href="https://www.buaa.edu.cn">BUAA</a> in 2016 and 2019. My research interests focus on computer vision applications in remote sensing, artistic creation and video games. (<a href="https://scholar.google.com/citations?user=oPej400AAAAJ&hl=en">Google Scholar Profile</a>)</p>
-<p>I'm currently an AI researcher and working on the problem of game character auto-creation, where we aim to generate game characters based on user-uploaded facial photos. I'm the first one to solve this problem, and this technique has been widely used in computer games (including Justice Online, Heaven mobile, Naraka:Bladepoint, etc.).</p>
+<p>I'm currently an AI researcher and working on the problem of game character auto-creation, where we aim to generate game characters based on user-uploaded facial photos. I'm very honer to present the first solution in this topic (<a href="https://arxiv.org/abs/1909.01064">Face-to-Parameter paper</a>), and this technique has been widely used in many popular computer games (including Justice Online, Heaven mobile, Naraka:Bladepoint, etc.).</p>
 </div>
 <br clear="left" />
 
@@ -13,6 +13,10 @@
 
 **My News:**
 
++ NEW (08/2021): I will be serving as a Program Committee (PC) member in CVPR 2022.
+
++ NEW (07/2021): One paper accepted to ICCV 2021 on the topic of multi-view 3D reconstruction via transformer.
+
 + NEW (04/2021): One paper accepted to IJCAI 2021 on the topic of in-game choreography.
 
 + NEW (04/2021): Our character auto-creation method is launched on the new game "Naraka:Bladepoint"！
@@ -21,23 +25,11 @@
 
 + NEW (03/2021): One paper ("Stylized Neural Painting") accepted to CVPR 2021 as an oral paper. Cheers!
 
-+ NEW (02/2021): I will be serving as a Program Committee (PC) member in ICCV 2021.
-
 + NEW (01/2021): One paper accepted to IEEE Transactions on Image Processing.
 
 + NEW (11/2020): My co-authored work ["Stylized Neural Painting"](https://jiupinjia.github.io/neuralpainter/) with Dr. Zou has been released. Also congratulations to his another excellent work ["SkyAR"](https://jiupinjia.github.io/skyar/). Nice cooperations!
 
-+ NEW (10/2020): My team won the championship in the First Netease Technical Marathon (20,000 CNY). Cheers!
-
-+ NEW (10/2020): My team won the "Best Technology Innovation Award" for "Game Character Auto-Creation" in the 2020 NetEase Technology Awards Ceremony (50,000 CNY). I'm glad to be the core member of this project and thanks a lot for the team's support!
-
 + NEW (09/2020): Our neural rendering paper was accepted by TPAMI. This is the first work on the topic of game character auto-creation. Excellent cooperation with [Dr. Zhengxia Zou](http://www-personal.umich.edu/~zzhengxi/#Honors).
-
-+ NEW (07/2020): Two papers accepted to ACM MM 2020.
-
-+ NEW (03/2020): I was invited to give a talk on GDC 2020 for game character auto-creation. Great pleasure! [[video](https://www.youtube.com/watch?v=OhV_DNji_0U)]
-
-+ NEW (02/2020): One paper accepted to CVPR 2020.
 
 ## Academic
 
@@ -77,5 +69,14 @@
 
 **Peer-Review Services**
 
-+ AAAI 2021 PC Member; CVPR 2020, 2021 PC Member; ICCV 2021 PC Member; WACV 2021 PC Member.
++ AAAI 2021 PC Member; CVPR 2020, 2021, 2022 PC Member; ICCV 2021 PC Member; WACV 2021, 2022 PC Member.
 
+## Talk
+
++ Tianyang Shi. Face-to-Parameter Translation via Neural Network Renderer. GDC 2020. [[video](https://www.youtube.com/watch?v=OhV_DNji_0U)] (Great pleasure!)
+
+## Awards
+
++ (10/2020): First Netease Technical Marathon (20,000 CNY), Champion team, Cheers!
+
++ (10/2020): "Best Technology Innovation Award" for "Game Character Auto-Creation" in the 2020 NetEase Technology Awards Ceremony (50,000 CNY, Team Award). Cheers!
