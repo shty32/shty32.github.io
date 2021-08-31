@@ -35,7 +35,7 @@
 
 **Publications**
 
-+ **\[IJCAI2021\]** Yinglin Duan\*, Tianyang Shi\* (\*equal contribution), Zhipeng Hu, Zhengxia Zou, et al. Automatic Translation of Music-to-Dance for In-Game Characters. IJCAI 2021, in press.
++ **\[IJCAI2021\]** Yinglin Duan\*, Tianyang Shi\* (\*equal contribution), Zhipeng Hu, Zhengxia Zou, et al. Automatic Translation of Music-to-Dance for In-Game Characters. IJCAI 2021. [[PDF](https://www.ijcai.org/proceedings/2021/0323.pdf)] 
 
 + Yinglin Duan\*, Tianyang Shi\*, Zhengxia Zou\* (\*equal contribution), Yenan Lin, Zhehui Qian, Bohan Zhang, and Yi Yuan. Single-Shot Motion Completion with Transformer. CoRR, abs/2103.00776, 2021. [[PDF](https://arxiv.org/abs/2103.00776)][[Project](https://github.com/FuxiCV/SSMCT)]
 
