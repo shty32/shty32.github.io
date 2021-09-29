@@ -2,7 +2,7 @@
 
 <div style="float: left; clear: both;" align="left">
 <img src="logo.png" width="100" alt="logo" align=left style="margin:0 10px 0 10px"/>
-<p>Hi, I'm Tianyang Shi (石天阳). I got my B.S. and M.S. degree from <a href="https://www.buaa.edu.cn">BUAA</a> in 2016 and 2019. My research interests focus on computer vision applications in remote sensing, artistic creation and video games. (<a href="https://scholar.google.com/citations?user=oPej400AAAAJ&hl=en">Google Scholar Profile</a>)</p>
+<p>Hi, I'm Tianyang Shi (石天阳). I got my B.S. and M.S. degree from <a href="https://www.buaa.edu.cn">BUAA</a> in 2016 and 2019. I previously worked at the NetEase Fuxi AI Lab (2019 - 2021) and now I'm working at the Tencent AI Lab (2021 - ). My research interests focus on computer vision applications in remote sensing, artistic creation and video games. (<a href="https://scholar.google.com/citations?user=oPej400AAAAJ&hl=en">Google Scholar Profile</a>)</p>
 <p>I'm currently an AI researcher and working on the problem of game character auto-creation, where we aim to generate game characters based on user-uploaded facial photos. I'm very honer to present the first solution in this topic (<a href="https://arxiv.org/abs/1909.01064">Face-to-Parameter paper</a>), and this technique has been widely used in many popular computer games (including Justice Online, Heaven mobile, Naraka:Bladepoint, etc.).</p>
 </div>
 <br clear="left" />
@@ -12,6 +12,8 @@
 + Personal Email: shitianyang94@gmail.com
 
 **My News:**
+
++ NEW : Great pleasure to join the Tencent AI Lab for Game-related AI research!
 
 + NEW (08/2021): I will be serving as a Program Committee (PC) member in CVPR 2022.
 
