@@ -13,17 +13,15 @@
 
 **My News:**
 
-+ NEW : Great pleasure to join the Tencent AI Lab for Game-related AI research!
++ NEW (06/2022): Brandly new character auto-creation framework is about to launch on a new awosome game for global game players!
 
-+ NEW (08/2021): I will be serving as a Program Committee (PC) member in CVPR 2022.
++ NEW (03/2022): Very happy to be invited as Program Committee (PC) member in CVPR 2022, ECCV 2022 and Siggraph 2022.
 
 + NEW (07/2021): One paper accepted to ICCV 2021 on the topic of multi-view 3D reconstruction via transformer.
 
 + NEW (04/2021): One paper accepted to IJCAI 2021 on the topic of in-game choreography.
 
 + NEW (04/2021): Our character auto-creation method is launched on the new game "Naraka:Bladepoint"！
-
-+ NEW (03/2021): Our new project ["Motion Completion Transformer"](https://arxiv.org/abs/2103.00776) is presented!
 
 + NEW (03/2021): One paper ("Stylized Neural Painting") accepted to CVPR 2021 as an oral paper. Cheers!
 
@@ -71,7 +69,7 @@
 
 **Peer-Review Services**
 
-+ AAAI 2021 PC Member; CVPR 2020, 2021, 2022 PC Member; ICCV 2021 PC Member; WACV 2021, 2022 PC Member.
++ PC Member: AAAI 2021, CVPR 2020/2021/2022, ICCV 2021, WACV 2021/2022, ECCV 2022, Siggraph 2022.
 
 ## Talk
 
