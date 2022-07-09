@@ -13,6 +13,8 @@
 
 **My News:**
 
++ NEW (07/2022): One paper accepted to IEEE Transactions on Image Processing.
+
 + NEW (06/2022): Brandly new character auto-creation framework is about to launch on a new awosome game for global game players!
 
 + NEW (03/2022): Very happy to be invited as Program Committee (PC) member in CVPR 2022, ECCV 2022 and Siggraph 2022.
@@ -24,8 +26,6 @@
 + NEW (04/2021): Our character auto-creation method is launched on the new game "Naraka:Bladepoint"！
 
 + NEW (03/2021): One paper ("Stylized Neural Painting") accepted to CVPR 2021 as an oral paper. Cheers!
-
-+ NEW (01/2021): One paper accepted to IEEE Transactions on Image Processing.
 
 + NEW (11/2020): My co-authored work ["Stylized Neural Painting"](https://jiupinjia.github.io/neuralpainter/) with Dr. Zou has been released. Also congratulations to his another excellent work ["SkyAR"](https://jiupinjia.github.io/skyar/). Nice cooperations!
 
@@ -69,7 +69,7 @@
 
 **Peer-Review Services**
 
-+ PC Member: AAAI 2021, CVPR 2020/2021/2022, ICCV 2021, WACV 2021/2022, ECCV 2022, Siggraph 2022.
++ PC Member: AAAI 2021, CVPR 2020/2021/2022, ICCV 2021, WACV 2021/2022/2023, ECCV 2022, Siggraph 2022.
 
 ## Talk
 
